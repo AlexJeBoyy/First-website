@@ -41,12 +41,9 @@ ul{
 
 #skateboard{
     float: left;
+    margin: 150px 0px 0px 0px;
 }
 
-#text2{
-    width: 295px;
-    float: left;
-}
 
 #codeMeme{
     float: right;
