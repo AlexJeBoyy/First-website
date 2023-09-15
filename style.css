@@ -1,6 +1,19 @@
 body{
     background-color: #f4f4f4;
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+p{
+    font-size: 20px;
+}
+
+ul{
+    font-size: 20px;
+}
+
+#hobbies{
+    margin: 0px 0px 0px 50px;
 }
 
 #mainHeading{
@@ -9,4 +22,45 @@ body{
 
 .highlight{
     color: red;
+}
+
+#introText{
+    width: 820px;
+    float: left;
+}
+
+#meHobbiesApp{
+    width: 440px;
+    float: left;
+}
+
+.reset{
+    clear: both;
+}
+
+
+#skateboard{
+    float: left;
+}
+
+#text2{
+    width: 295px;
+    float: left;
+}
+
+#codeMeme{
+    float: right;
+}
+
+.wrap {
+    float: left; 
+    margin: 5px;
+}
+
+#pageContainer{
+    width: 1440px;
+    margin: opx auto 0px auto;
+}
+#pictureMe{
+    margin: 0px 0px 0px 75px;
 }
