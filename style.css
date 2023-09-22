@@ -21,6 +21,10 @@ ul{
     margin: 5px;
 }
 
+#hobbiesH{
+    color: #0f0050;
+}
+
 #pageContainer{
     width: 1200px;
     margin: 0px auto 0px auto;
@@ -49,7 +53,7 @@ ul{
 
 #skateboard{
     float: left;
-    margin: 48px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
 }
 
 
