@@ -1,7 +1,7 @@
 body{
     background-color: #f4f4f4;
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0px;
+    margin: 0;
 }
 
 p{
@@ -22,11 +22,11 @@ ul{
 }
 
 #pageContainer{
-    width: 1300px;
-    margin: opx auto 0px auto;
+    width: 1200px;
+    margin: 0px auto 0px auto;
 }
 #hobbies{
-    margin: 0px 0px 0px 50px;
+    margin: 0px 0px 0px 10px;
 }
 
 #mainHeading{
@@ -38,12 +38,12 @@ ul{
 }
 
 #introText{
-    width: 820px;
+    width: 750px;
     float: left;
 }
 
 #meHobbiesApp{
-    width: 440px;
+    width: 408px;
     float: left;
 }
 
@@ -60,9 +60,9 @@ ul{
 
 
 #pictureMe{
-    margin: 25px 0px 0px 75px;
+    margin: 25px 0px 0px 25px;
 }
 
 #instagram{
-    margin: 0px 0px 0px 50px;
+    margin: 0px 0px 0px 25px;
 }
